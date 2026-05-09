@@ -1,0 +1,14 @@
+{
+  "query": {
+    "title": "調査したい法令・制度",
+    "desc": "例：個人情報保護法における第三者提供の要件、労働基準法の時間外労働規制",
+    "type": "textarea",
+    "required": true,
+    "max_length": 500
+  },
+  "conversation_history": {
+    "title": "会話履歴",
+    "desc": "過去の調査結果を踏まえて続きを調査する場合に入力してください",
+    "type": "textarea"
+  }
+}
